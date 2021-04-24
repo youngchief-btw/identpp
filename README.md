@@ -10,4 +10,4 @@ Otherwise if you are just testing or have the option to change the port the serv
 
 Also to customize you need to modify variables in the code and compile.
 
-I'm hoping to fix this in the future, and have pre-built binaries too.
+I'm hoping to really improve this over time.
